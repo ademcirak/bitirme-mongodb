@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: lucene-core-4.10.4.jar lucene-analyzers-common-4.10.4.jar 
+ log4j-api-2.2.jar Java-WebSocket-1.3.0.jar log4j-core-2.2.jar horrors
+ s-2.2.0.jar json-20090211.jar jsoup-1.8.1.jar socket.io-client-0.4.2.
+ jar engine.io-client-0.4.1.jar mysql-connector-java-5.1.35.jar lucene
+ -queries-4.10.4.jar commons-logging-1.1.1.jar
+Main-Class: main.Run
+
